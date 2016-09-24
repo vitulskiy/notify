@@ -1,0 +1,15 @@
+/* font-family: "Pacifico"; */
+@font-face {
+	font-family: "Pacifico";
+	src: url(../fonts/Pacifico.ttf);
+}
+/*HelveticaNeueCyr-Roman*/
+@font-face {
+	font-family: "HelveticaNeueCyr-Roman";
+	src: url(../fonts/HelveticaNeueCyr-Roman.otf);
+}
+/* font-family: "RalewaySemiBold"; */
+@font-face {
+    font-family: "RalewaySemiBold";
+    src: url(../fonts/RalewaySemiBold.ttf);
+}

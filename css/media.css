@@ -1,0 +1,97 @@
+/*==========  Desktop First Method  ==========*/
+
+@media only screen and (max-width : 1120px) {
+  .video{
+    height: 250px;
+  }
+  .wrapper-header {
+    background-position: center center;
+  }
+}
+
+@media only screen and (max-width : 1030px) {
+  .get {
+    padding-right: 40px;
+  }
+}
+
+@media only screen and (max-width : 960px) {
+  .dnone960 {
+    display: none;
+  }
+}
+
+
+@media only screen and (max-width : 910px) {
+  .get {
+    width: 100%;
+    display: block;
+    padding-bottom: 40px;
+    padding-right: 0;
+  }
+
+  .video {
+    width: 500px;
+  	height: 300px;
+    display: block;
+  	border-radius: 20px;
+  }
+}
+
+
+@media only screen and (max-width : 815px) {
+  .cont-1-3{
+    display: block;
+    width: 100%;
+
+  }
+}
+
+
+@media only screen and (max-width : 690px) {
+  .header, .featutes, .notified, .testimonials, .footer {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+@media only screen and (max-width : 627px) {
+  .video {
+    margin-right: 0px;
+    width: 100%;
+  }
+  .header {
+    text-align: center;
+  }
+  .logo, .first, .icons {
+    width: 100%;
+  }
+  .footer {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .footer a {
+    flex-grow: 1;
+    margin-top: 10px;
+  }
+}
+@media only screen and (max-width : 470px) {
+  .video {
+    height: 230px;
+  }
+  input{
+    height: 30px;
+  }
+
+  .search-square{
+    vertical-align: top;
+    font-size: 14px;
+    width: 70%;
+  }
+
+  .search-btn{
+    vertical-align: top;
+    font-size: 14px;
+    width: 30%;
+  }
+}
